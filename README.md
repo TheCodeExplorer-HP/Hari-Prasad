@@ -1,4 +1,4 @@
-# About Hari Prasad
+# About Me
 
 
 - CS Engineering Student | AIML Enthusiast | Passionate about Tech & Innovation
