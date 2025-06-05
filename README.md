@@ -1,4 +1,4 @@
-# Hari Prasad (TheCodeExplorer-HP)
+# About Hari Prasad
 
 
 - CS Engineering Student | AIML Enthusiast | Passionate about Tech & Innovation
