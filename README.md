@@ -3,6 +3,7 @@
 
 - CS Engineering Student | AIML Enthusiast | Passionate about Tech & Innovation
 - Currently Exploring: Artificial Intelligence • Machine Learning • Neural network • Front-End Web Development 
+- Learning: Data Structures & Algorithms Using Python Language 
 - Learning: Python Programming Language
 - Front-End Stack: HTML5 • CSS3
 - Libraries & Tools: OpenCV • NumPy  
